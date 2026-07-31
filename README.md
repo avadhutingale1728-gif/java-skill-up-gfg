@@ -7,7 +7,7 @@ GeeksforGeeks Java Skill Up course.
 
 | # | Topic | Status | Problems Solved |
 |---|---|---|---|
-| 1 | Java Basics | ✅ Completed | 10 |
+| 1 | Java Basics | ✅ Completed | 21 |
 | 2 | Methods, Arrays & Strings | 🔄 In Progress | 15 |
 | 3 | OOP | ⬜ Not Started | 0 |
 | 4 | Memory Management & Packages | ⬜ Not Started | 0 |
