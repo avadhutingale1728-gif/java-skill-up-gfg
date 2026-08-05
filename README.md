@@ -8,7 +8,7 @@ GeeksforGeeks Java Skill Up course.
 | # | Topic | Status | Problems Solved |
 |---|---|---|---|
 | 1 | Java Basics | ✅ Completed | 21 |
-| 2 | Methods, Arrays & Strings | 🔄 In Progress | 15 |
+| 2 | Methods, Arrays & Strings | 🔄 In Progress | 17 |
 | 3 | OOP | ⬜ Not Started | 0 |
 | 4 | Memory Management & Packages | ⬜ Not Started | 0 |
 | 5 | Exception Handling, Wrapper Classes & Generics | ⬜ Not Started | 0 |
