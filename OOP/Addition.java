@@ -1,0 +1,18 @@
+// create a class Addition
+// with a static function add()
+// this should return the sum of
+// two parameters a and b passed in the parameter
+
+// code here
+class Addition{
+    public static int add(int a, int b){
+        return a+b;
+    }
+}
+
+class Main{
+    public static void main(String[] args){
+        Addition obj = new Addition();
+        obj.add(3,4);
+    }
+}
