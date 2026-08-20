@@ -1,217 +1,130 @@
 # ☕ Java Skill Up — GeeksforGeeks
 
-> A structured repository documenting my journey through **Core Java**, from fundamentals to advanced concepts, with hands-on coding practice and problem solving.
+> My structured journey through **Core Java**, following the GeeksforGeeks Java Skill Up course.
 
-This repository contains my learning progress, Java implementations, and coding problems completed as part of the **GeeksforGeeks Java Skill Up** course.
+This repository contains the coding problems provided by the course and the Java programs I have completed while learning each topic.
 
-The goal is to build a strong foundation in **Core Java, Object-Oriented Programming, Collections, Multithreading, JDBC, Java 8+ features, and Design Patterns** while maintaining a consistent record of my problem-solving practice.
+The goal is to build a strong foundation in **Core Java**, strengthen problem-solving skills, and keep my Java learning progress organized.
 
 ---
 
 ## 📊 Course Progress
 
-| #  | Topic                                          | Status         | Problems |
-| -- | ---------------------------------------------- | -------------- | -------: |
-| 01 | Java Basics                                    | ✅ Completed    |       21 |
-| 02 | Methods, Arrays & Strings                      | ✅ Completed    |       23 |
-| 03 | Object-Oriented Programming                    | 🔄 In Progress |        2 |
-| 04 | Memory Management & Packages                   | ⬜ Not Started  |        — |
-| 05 | Exception Handling, Wrapper Classes & Generics | ⬜ Not Started  |        — |
-| 06 | Collections Framework                          | ⬜ Not Started  |        — |
-| 07 | Multithreading & Concurrency                   | ⬜ Not Started  |        — |
-| 08 | Java I/O & File Handling                       | ⬜ Not Started  |        — |
-| 09 | Java 8+ Features                               | ⬜ Not Started  |        — |
-| 10 | JDBC                                           | ⬜ Not Started  |        — |
-| 11 | Design Patterns                                | ⬜ Not Started  |        — |
+| #  | Topic                                          | Status         | Course Problems |
+| -- | ---------------------------------------------- | -------------- | --------------: |
+| 01 | Java Basics                                    | ✅ Completed    |              21 |
+| 02 | Methods, Arrays & Strings                      | ✅ Completed    |              23 |
+| 03 | Object-Oriented Programming                    | ✅ Completed    |               4 |
+| 04 | Packages & Memory Management                   | 🔄 In Progress |               — |
+| 05 | Exception Handling, Wrapper Classes & Generics | ⬜ Not Started  |               — |
+| 06 | Collections Framework                          | ⬜ Not Started  |               — |
+| 07 | Multithreading & Concurrency                   | ⬜ Not Started  |               — |
+| 08 | Java I/O & File Handling                       | ⬜ Not Started  |               — |
+| 09 | Java 8+ Features                               | ⬜ Not Started  |               — |
+| 10 | JDBC                                           | ⬜ Not Started  |               — |
+| 11 | Design Patterns                                | ⬜ Not Started  |               — |
 
-**Current Progress:** `2 / 11 topics completed`
-**Course Problems Solved:** `46+`
+### Current Progress
 
-> **Note:** The problem count includes only coding/practice problems provided within the GeeksforGeeks Java Skill Up course. `—` means the topic currently has no dedicated course problems.
+* **Completed:** 3 / 11 topics
+* **Currently Learning:** Topic 4 — Packages & Memory Management
+* **Course Problems Solved:** 48
 
----
-
-## 🎯 Learning Goals
-
-Through this repository, I am working toward:
-
-* Building strong **Core Java fundamentals**
-* Understanding **Object-Oriented Programming**
-* Improving Java problem-solving skills
-* Learning Java Collections and Generics
-* Understanding JVM memory management
-* Learning Multithreading and Concurrency
-* Working with Java I/O and file handling
-* Understanding modern Java 8+ features
-* Learning JDBC and database connectivity
-* Understanding commonly used Design Patterns
-* Building a strong foundation for **Java Backend Development**
+> **Note:** The GeeksforGeeks Java Skill Up course provides dedicated coding problems for the first three topics. The remaining topics primarily consist of theory and concept-based articles, so there are no course-specific problems to add for those sections.
 
 ---
 
-## 🧠 Topics Covered
+## 💻 Coding Practice
 
-### Core Java
+This repository contains the **coding problems provided within the Java Skill Up course**.
 
-* Java Basics
-* Variables & Data Types
-* Operators
-* Control Flow
-* Methods
-* Arrays
-* Strings
+| Topic                       | Problems Solved |
+| --------------------------- | --------------: |
+| Java Basics                 |              21 |
+| Methods, Arrays & Strings   |              23 |
+| Object-Oriented Programming |               2 |
+| **Total**                   |          **48** |
 
-### Object-Oriented Programming
-
-* Classes & Objects
-* Constructors
-* Encapsulation
-* Inheritance
-* Polymorphism
-* Abstraction
-* Interfaces
-* Packages
-
-### Advanced Java
-
-* Memory Management
-* Garbage Collection
-* Exception Handling
-* Wrapper Classes
-* Generics
-* Collections Framework
-* Multithreading
-* Concurrency
-* File Handling
-* Java 8+ Features
-* JDBC
-* Design Patterns
+The solutions are organized according to the topic in which they were introduced in the course.
 
 ---
 
-## 💻 Problem Solving
+## 📚 Topics
 
-This repository is not only for storing course notes.
+The course covers the following areas of Java:
 
-I also use it to maintain my **Java coding practice**.
-
-### Practice includes
-
-* Course-specific coding problems
-* Java implementation exercises
-* Concept-based programs
-* Additional Java problems
-* Interview-oriented practice
-
-When a course topic does not contain dedicated coding problems, I plan to add additional practice problems to strengthen my understanding.
+* **Java Basics**
+-Java Basics and Features ✅
+-Environment Setup & Hello World Program ✅
+-Identifiers, Data Types, Keywords and Literals ✅
+-Variables and Type Casting ✅
+-Operators and Input/Output ✅
+-Conditional and Looping Constructs ✅
+* **Methods, Arrays & Strings** 
+-Java Methods Deep Dive ✅
+-Arrays ✅
+-Advanced Arrays and Utilities ✅
+-Strings ✅
+-String Class & Methods ✅
+-StringBuffer & StringBuilder ✅
+* **Object-Oriented Programming** 
+-OOP Basics & Constructors ✅
+-Inheritance, Polymorphism, Abstraction & Encapsulation ✅
+-Inner Classes & Access Control ✅
+-Final Keyword & Object Class ✅
+-Interfaces ✅
+-Nested, Marker & Comparator Interfaces ✅
+* **Packages & Memory Management** — Packages, JVM memory areas and garbage collection
+* **Exception Handling, Wrapper Classes & Generics**
+* **Collections Framework**
+* **Multithreading & Concurrency**
+* **Java I/O & File Handling**
+* **Java 8+ Features**
+* **JDBC**
+* **Design Patterns**
 
 ---
 
 ## 📁 Repository Structure
 
+The repository contains the coding work completed so far:
+
 ```text
 java-skill-up-gfg/
 │
-├── 01_java_basics/
-│
-├── 02_methods_arrays_strings/
-│
-├── 03_oop/
-│
-├── 04_memory_management_packages/
-│
-├── 05_exception_handling_generics/
-│
-├── 06_collections/
-│
-├── 07_multithreading/
-│
-├── 08_io_file_handling/
-│
-├── 09_java8_features/
-│
-├── 10_jdbc/
-│
-├── 11_design_patterns/
+├── 01_Java_Basics/
+├── 02_Methods_Arrays_Strings/
+├── 03_OOP/
 │
 └── README.md
 ```
 
-> The structure may evolve as I progress through the course.
+As I progress through the course, the repository will be updated accordingly.
 
 ---
 
-## 📈 Progress Philosophy
+## 🎯 Goals
 
-I am following a simple approach:
-
-```text
-Learn → Understand → Implement → Solve → Review → Repeat
-```
-
-For each topic, I aim to:
-
-1. Learn the concept
-2. Understand how it works
-3. Implement examples in Java
-4. Solve available course problems
-5. Practice additional problems when needed
-6. Review and improve my solutions
+* Complete the GeeksforGeeks Java Skill Up course
+* Build a strong foundation in Core Java
+* Solve all coding problems provided by the course
+* Keep my Java programs and solutions organized
+* Strengthen Java fundamentals for **DSA and backend development**
 
 ---
 
-## 🛠️ Technologies
+## 🛠️ Tools & Technologies
 
-![Java](https://img.shields.io/badge/Java-17%2B-orange?style=flat-square\&logo=openjdk)
-![Git](https://img.shields.io/badge/Git-Version%20Control-red?style=flat-square\&logo=git)
-![GitHub](https://img.shields.io/badge/GitHub-Repository-black?style=flat-square\&logo=github)
-
-**Primary Language:** Java
-
-**Tools:** Git, GitHub, VS Code / IntelliJ IDEA
+* **Java**
+* **Git**
+* **GitHub**
+* **GeeksforGeeks**
+* **VS Code**
 
 ---
 
-## 🚀 What's Next?
+## 📈 Current Focus
 
-My current focus is completing **Object-Oriented Programming** and then progressing through:
+**Topic 4 — Packages & Memory Management**
 
-```text
-OOP
- ↓
-Memory Management
- ↓
-Exception Handling & Generics
- ↓
-Collections
- ↓
-Multithreading
- ↓
-I/O
- ↓
-Java 8+
- ↓
-JDBC
- ↓
-Design Patterns
-```
-
-After completing the Core Java journey, the next goal is to apply these concepts through **DSA and Java Backend Development**.
-
----
-
-## 📚 Learning Resource
-
-This repository follows the:
-
-**GeeksforGeeks — Java Skill Up**
-
-The repository is intended as a personal learning and practice record rather than a replacement for the original course material.
-
----
-
-## 👨‍💻 About This Repository
-
-This repository is actively maintained as I progress through my Java learning journey.
-
-> **Learning Java one concept, one program, and one problem at a time.** ☕
+> ☕ Learning Java one concept and one problem at a time.
